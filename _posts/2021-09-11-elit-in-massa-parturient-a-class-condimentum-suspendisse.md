@@ -1,9 +1,9 @@
 ---
-title: "Ullamcorper convallis a placerat consectetur condimentum"
-date: 2021-02-16T00:00:00+00:00
+title: "Elit in massa parturient a class condimentum suspendisse."
+date: 2021-09-11T00:00:00+00:00
 author: Hakan Torun
 layout: post
-permalink: /ullamcorper-convallis-a-placerat-consectetur-condimentumnone/
+permalink: /elit-in-massa-parturient-a-class-condimentum-suspendisse/
 categories: Genel
 tags: [lorem, ipsum]
 ---
