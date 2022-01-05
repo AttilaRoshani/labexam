@@ -13,16 +13,14 @@ discus-identifier:  XXX
 
 # Author settings
 author:
-  name: Hakan Torun
-  bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
+  name: Attila Roshani khiyavy
+  bio: Computer Engineering student @pardinus <br> Founder @zaqa <br> Open Source /#linux
   picture: assets/images/profile.jpg 
   github: onepase # github username
-  twitter: onepase # twitter username
-  facebook: onepase # facebook username
-  instagram: onepase # instagram username
-  youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
-  linkedin: hakantorun # linkedin username
-  email: your-email@email.com # email adress
+  twitter: AUrushan # twitter username
+  instagram: attila_roshani # instagram username
+  linkedin: Attila Roshani # linkedin username
+  email: atilaroshani@gmail.com # email adress
 
 
 # URL settings
