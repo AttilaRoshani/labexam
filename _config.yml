@@ -1,32 +1,30 @@
 # Site settings
-site: Ephesus
-title: Ephesus - Minimalist Jekyll Theme
-keywords: ephesus, blog
+site: labexam
+title: labexam
+keywords: labexam, blog
 description: >-
   Ephesus - Minimalist Jekyll Theme
 lang: en-US
 timezone:  Europe/Istanbul
-repo: https://github.com/onepase/Ephesus # site repo [optional]
+repo: https://attilaroshani.github.io/labexam/ # site repo [optional]
 google_verify:      XXX # Put your Google Verification here
 google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
 discus-identifier:  XXX
 
 # Author settings
 author:
-  name: Hakan Torun
-  bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
+  name: Attila Roshani khiyavy
+  bio: Computer Engineering student @pardinus <br> Founder @zaqa <br> Open Source /#linux
   picture: assets/images/profile.jpg 
   github: onepase # github username
-  twitter: onepase # twitter username
-  facebook: onepase # facebook username
-  instagram: onepase # instagram username
-  youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
-  linkedin: hakantorun # linkedin username
-  email: your-email@email.com # email adress
+  twitter: AUrushan # twitter username
+  instagram: attila_roshani # instagram username
+  linkedin: Attila Roshani # linkedin username
+  email: atilaroshani@gmail.com # email adress
 
 
 # URL settings
-url: "http://127.0.0.1:4000" # Domain Name of host. [username].github.io for github pages
+url: "https://attilaroshani.github.io/labexam/" # Domain Name of host. [username].github.io for github pages
 permalink: pretty
 
 markdown: kramdown
